@@ -194,7 +194,7 @@ MONGO_URL=mongodb://localhost:27017/myapp ROOT_URL=http://my-app.com PORT=8080 n
 ```
 
 * `ROOT_URL` is the base URL for your Meteor project
-* `PORT` is port at which the application is running 
+* `PORT` is the port at which the application is running 
 * `MONGO_URL` is a [Mongo connection string URI](https://docs.mongodb.com/manual/reference/connection-string/) supplied by the MongoDB provider.
 
 
